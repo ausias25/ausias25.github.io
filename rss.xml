@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Blog de videojuegos</title>
+  <link>blog.html</link>
+  <description>Blog de videojuegos</description>
+  <item>
+    <title>El auge de los videojuegos retro.</title>
+    <link>noticia1.html</link>
+    <description>El auge de los videojuegos retro.</description>
+  </item>
+  <item>
+    <title>“La Tierra Media: Sombras de Guerra”, forja tu propio destino.</title>
+    <link>noticia2.html</link>
+    <description>“La Tierra Media: Sombras de Guerra”, forja tu propio destino.</description>
+  </item>
+</channel>
+</rss>
